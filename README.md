@@ -9,3 +9,6 @@ The final examples are available on:
 
 - https://next-learn-starter.vercel.app
 - https://next-seo-starter.vercel.app
+
+
+I am currently working on nextjs-blog.
